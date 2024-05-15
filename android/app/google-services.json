@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20466051314",
+    "project_id": "ecom-81539",
+    "storage_bucket": "ecom-81539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20466051314:android:00276309f9ff91175a886b",
+        "android_client_info": {
+          "package_name": "com.myntraclonevender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_YNqkKEZ8hdDxvdYymEw8VQsrDkFEw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
